@@ -5,35 +5,18 @@ sidebar:
   nav: "community"
 ---
 
-The Open Data Kit project is governed by the Project Management Committee (PMC) and the two Technical Steering Committees (TSCs). The PMC is the ultimate authority over the project while the TSCs have authority over the technical direction of their respective suites of software: ODK and ODK-X (formerly ODK 2).
+The project is governed by the Technical Steering Committee (TSC). The TSC has authority over the technical direction of the software.
 
-## Project Management Committee
+## Technical Steering Committee
 
-The project management committee consists of individuals identified as "project owners". The PMC responsibilities are to ensure the smooth running of the project. PMC members are expected to participate in strategic planning and approve changes to the governance model.
-
-See [PMC Governance](https://github.com/opendatakit/governance/blob/master/PMC-GOVERNANCE.md) for more.
-
-
-### PMC
-
-| [<img src="/assets/images/pmc/richard-anderson.jpg" width="200px;" alt="Richard Anderson"/><br /><b>Richard Anderson</b>](https://www.cs.washington.edu/people/faculty/anderson)<br />[UW-CSE](https://www.cs.washington.edu/) | [<img src="/assets/images/pmc/yaw-anokwa.jpg" width="200px;" alt="Yaw Anokwa"/><br /><b>Yaw Anokwa</b>](https://github.com/yanokwa)<br />[Nafundi](http://nafundi.com/) | [<img src="/assets/images/pmc/waylon-brunette.jpg" width="200px;" alt="Waylon Brunette"/><br /><b>Waylon Brunette</b>](https://github.com/wbrunette)<br />[UW-CSE](https://www.cs.washington.edu/)| [<img src="/assets/images/pmc/carl-hartung.jpg" width="200px;" alt="Carl Hartung"/><br /><b>Carl Hartung</b>](https://github.com/chartung)<br />[Libro.fm](http://libro.fm) |
-
-## Technical Steering Committees
-
-The Technical Steering Committees are responsible for high-level technical direction of their suite. Each TSC has authority over all technical aspects of their suite including:
+The Technical Steering Committee is responsible for high-level technical direction of the software under its authority. This includes:
 
 * Suite roadmap (feature addition/removal, tool addition/removal, incorporating community feedback, etc.).
 * Forming appropriate Working Groups (e.g., User Feedback, Documentation, Translation) to gather the necessary community feedback before making decisions.
 * Technical resources (e.g., code repositories, servers)
 * Maintaining the list of Committers
 
-See [TSC Governance](https://github.com/opendatakit/governance/blob/master/TSC-GOVERNANCE.md) for more.
-
-### TSC 1
-
-TSC 1 is responsible for ODK Collect, ODK Aggregate, ODK XLSForm, ODK Build, ODK Briefcase, ODK Central, ODK JavaRosa, and the ODK XForms specification.
-
-The TSC meets every two weeks to discuss the [ODK Roadmap](https://github.com/opendatakit/roadmap/projects/1).
+See [TSC Governance](https://github.com/getodk/governance/blob/master/TSC-GOVERNANCE.md) for more.
 
 #### Current members
 
@@ -49,15 +32,3 @@ The TSC meets every two weeks to discuss the [ODK Roadmap](https://github.com/op
 
 | [<img src="/assets/images/tsc1/guillermo-gutierrez.jpg" width="100px;" alt="Guillermo Gutiérrez"/><br /><b>Guillermo Gutiérrez</b>](https://github.com/ggalmazor)<br />[Nafundi](http://nafundi.com) | |
 
-
-### TSC 2
-
-TSC 2 is responsible for ODK-X Application Designer, ODK-X Services, ODK-X Survey, ODK-X Cloud Endpoints, ODK-X Suitcase, ODK-X Tables, and ODK-X Scan.
-
-The TSC meets every two weeks to discuss the [ODK-X Roadmap](https://github.com/opendatakit/roadmap/projects/2).
-
-#### Current members
-
-| [<img src="/assets/images/tsc2/jeff-beorse.jpg" width="200px;" alt="Jeff Beorse"/><br /><b>Jeff Beorse</b>](https://forum.opendatakit.org/u/jeff_beorse)<br />[Eir Birch](https://www.eirbirch.com) | [<img src="/assets/images/tsc2/raquel-bernedo.png" width="200px;" alt="Raquel Bernedo"/><br /><b>Raquel Bernedo</b>](https://forum.opendatakit.org/u/berpita/)<br />[Spanish Red Cross](https://www.cruzroja.es/) | [<img src="/assets/images/pmc/waylon-brunette.jpg" width="200px;" alt="Waylon Brunette"/><br /><b>Waylon Brunette</b>](https://github.com/wbrunette)<br />[UW-CSE](https://www.cs.washington.edu/) | [<img src="/assets/images/tsc2/ben-green.jpg" width="200px;" alt="Ben Green"/><br /><b>Ben Green</b>](https://forum.opendatakit.org/u/bengreen/)<br />[World Mosquito Program](https://worldmosquito.org)
-
-| [<img src="/assets/images/tsc2/li-lin.png" width="200px;" alt="Li Lin"/><br /><b>Li Lin</b>](https://forum.opendatakit.org/u/linl33/)<br />[UW-CSE](https://www.cs.washington.edu/) | [<img src="/assets/images/tsc2/caroline-krafft.jpg" width="200px;" alt="Caroline Krafft"/><br /><b>Caroline Krafft</b>](https://forum.opendatakit.org/u/elmps2018)<br />[St Catherine University](https://sites.google.com/site/carolinekrafft/home) | [<img src="/assets/images/tsc2/belendia-serda.jpg" width="200px;" alt="Belendia Serda"/><br /><b>Belendia Serda</b>](https://forum.opendatakit.org/u/bs/)<br />[PATH](https://path.org) | |

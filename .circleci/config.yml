@@ -39,6 +39,7 @@ jobs:
           paths:
             - _site/*
             - s3_website.yml
+
   deploy:
     working_directory: ~/work
     docker:
@@ -67,8 +68,7 @@ jobs:
           name: Push to S3
           command: |
               if [[ "$CIRCLE_PROJECT_USERNAME" == "getodk" ]]; then \
-                s3_website cfg apply
-                s3_website push
+                s3_website cfg apply && s3_website push
               fi
 workflows:
   version: 2
@@ -76,6 +76,7 @@ workflows:
     jobs:
       - build
       - deploy:
+          context: AWS
           requires:
             - build
           filters:

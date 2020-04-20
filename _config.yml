@@ -12,7 +12,9 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 # Site Settings
 locale                   : "en-US"
 title                    : "ODK"
-title_separator          : "-"
+masthead_title           : " "
+title_separator          : ""
+logo                     : "/assets/images/logo.png"
 name                     : &name "ODK" # &name is a YAML anchor which can be *referenced later
 description              : &description "The ODK community produces free and open-source software for collecting, managing, and using data in resource-constrained environments."
 tagline                  : The standard for mobile data collection

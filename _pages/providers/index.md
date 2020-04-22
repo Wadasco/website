@@ -7,8 +7,6 @@ We recommend you hire these organizations and individuals because they are knowl
 
 Organizations are selected for contributing code, documentation, support, or leadership in last year. Individuals are selected for solving the most support questions in our forum in the last year.
 
-## ODK
-
 ### Organizations
 
 * Nafundi
@@ -17,12 +15,12 @@ Organizations are selected for contributing code, documentation, support, or lea
 * Enketo
 	* Enketo LLC works on the continuous improvement of the Enketo tools and takes part in ODK's governance. It is available for any Enketo-related work.
 	* View [recent activity](https://forum.getodk.org/g/enketo/activity). Contact at [enketo.org](https://enketo.org).
+* Sassafras
+	* We are a worker-owned tech consultancy. We contribute to ODK Collect, and we develop NEMO, an ODK-compatible data collection & analysis system for the web.
+	* View [recent activity](https://forum.getodk.org/g/sassafras/activity). Contact at [sassafras.coop](https://sassafras.coop).
 * Ona
 	* Ona supports over 40,000 clients globally to effectively and efficiently collect, manage and visualize data across health, humanitarian and development sectors.
 	* View [recent activity](https://forum.getodk.org/g/ona/activity). Contact at [ona.io](https://ona.io).
-* eHealth Africa
-	* eHA builds stronger health systems through the design and implementation of data-driven solutions. We have worked with and contributed to ODK for over 7 years.
-	* View [recent activity](https://forum.getodk.org/g/ehealthafrica/activity). Contact at [ehealthafrica.org](https://www.ehealthafrica.org).
 
 ### Individuals
 
@@ -30,20 +28,11 @@ Organizations are selected for contributing code, documentation, support, or lea
 	* ODK TSC member, contributor, and forum moderator. Experienced in XLSForm and XML form design and XPath. Fluent in English, C, and LISP.
 	* View [recent solutions](https://forum.getodk.org/u/Xiphware/activity/solved). Email [xiphware@gmail.com](mailto:xiphware@gmail.com).
 * Abu Al Imran
-	* Worked as M&E expert for many USAID/CDC programs. Speaks Bengali, English and Russian. Experienced in making complex XLSForms and managing Aggregate servers. 
+	* Worked as M&E expert for many USAID/CDC programs. Speaks Bengali, English and Russian. Experienced in making complex XLSForms and managing Aggregate servers.
 	* View [recent solutions](https://forum.getodk.org/u/A.N.M_AL-IMRAN/activity/solved). Email [imran3may@gmail.com](mailto:email@example.com).
 * Dan Joseph
 	* Information manager and GIS specialist in humanitarian disaster response experienced with designing XLSForms, making maps, and custom web visualizations.
 	* View [recent solutions](https://forum.getodk.org/u/danbjoseph/activity/solved). Contact at [danbjoseph@gmail.com](mailto:danbjoseph@gmail.com).
-* Abdul-Majeed Jibril
-	*  I can design complex forms for areas like finance, agriculture, and health. I can train enumerators to collect quality data. I am based in Ghana.
-	* View [recent solutions](https://forum.getodk.org/u/Fabla/activity/solved). Contact at [fabla2020@gmail.com](mailto:fabla2020@gmail.com).
-* Narendra Singh
-	* Monitoring expert with the production of monitoring Excel files with Stata. ODK-ABC(Aggregate Build Collect) Expert on training large groups of enumerators.
-	* View [recent solutions](https://forum.getodk.org/u/iamnarendrasingh/activity/solved). Contact at [narendraa.singhshekhawat@gmail.com](mailto:narendraa.singhshekhawat@gmail.com).
 * Aurelio Di Pasquale
 	* Epidemiologist with software dev background. Experienced with complex form design, enumerator training, and server setup. Speaks English, Spanish and Italian.
 	* View [recent solutions](https://forum.getodk.org/u/aurdipas/activity/solved). Contact at [aurelio.dipasquale@swisstph.ch](mailto:aurelio.dipasquale@swisstph.ch).
-* Ronald Munjoma
-	* Worked as a Data Manager for the Friendship Bench Project and TENDAI Study. Experienced in XLSForm and XML form design and setting up and managing Aggregate and Central servers.
-	* View [recent solutions](https://forum.getodk.org/u/Ronald_Munjoma/activity/solved). Contact at [simbiso@gmail.com](mailto:simbiso@gmail.com).

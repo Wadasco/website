@@ -5,11 +5,11 @@ sidebar:
   nav: "community"
 ---
 
-The project is governed by the Technical Steering Committee (TSC). The TSC has authority over the technical direction of the software.
+The ODK project is governed by the Technical Steering Committee (TSC).
 
 ## Technical Steering Committee
 
-The Technical Steering Committee is responsible for high-level technical direction of the software under its authority. This includes:
+The TSC is responsible for the overall direction of the project. This includes:
 
 * Suite roadmap (feature addition/removal, tool addition/removal, incorporating community feedback, etc.).
 * Forming appropriate Working Groups (e.g., User Feedback, Documentation, Translation) to gather the necessary community feedback before making decisions.

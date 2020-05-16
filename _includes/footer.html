@@ -6,7 +6,6 @@
     {% if site.facebook.username %}
       <li><a href="https://www.facebook.com/{{ site.facebook.username }}"><span class="icon icon-f" aria-hidden="true" style="margin-right: 6px"></span>Facebook</a></li>
     {% endif %}
-    <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | absolute_url }}{% endif %}"><span class="icon icon-r" aria-hidden="true" style="margin-right: 6px"></span>{{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
   </ul>
   <ul class="right-align-footer-elements">
     {% if page.url == '/' %}

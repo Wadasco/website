@@ -11,5 +11,6 @@ ODK has been used to fight both endemic and pandemic diseases for more than a de
 * South Sudan: WHO and the Ministry of Health rely on ODK to get real-time data on contacts. [Learn more](https://twitter.com/WHOSouthSudan/status/1259469876604940289).
 * Kenya: CORE Group's community health volunteers capture potential human and animal cases on ODK. [Learn more](https://coregroup.org/wp-content/uploads/2020/03/COVID19-Technologies-Combined.pdf).
 * Philippines: Quarantined and hospitalized cases in Region 12 are reported using ODK. [Learn more](https://www.mindanews.com/top-stories/2020/03/male-patient-from-sultan-kudarat-dies-while-awaiting-virus-test-results).
+* Pakistan: Red Crescent Society conducts beneficiary registration for food distribution with ODK. [Learn more](https://twitter.com/PRC_official/status/1261320953717501953).
 
 If you are using or thinking about using ODK for the COVID-19 response please let us know at [team@getodk.org](mailto:team@getodk.org). We'd love to learn more about your work so we can better support it.

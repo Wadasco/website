@@ -1,6 +1,6 @@
 # ODK Website
 
-![Platform](https://img.shields.io/badge/platform-Jekyll-blue.svg) [![Ruby version](https://img.shields.io/badge/ruby-blue.svg)](https://www.ruby-lang.org/en/downloads/) [![License](https://img.shields.io/badge/license-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/) [![Build status](https://circleci.com/gh/getodk/website.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/getodk/website/) [![Slack status](http://slack.getodk.org/badge.svg)](http://slack.getodk.org/)
+![Platform](https://img.shields.io/badge/platform-Jekyll-blue.svg) [![Ruby version](https://img.shields.io/badge/ruby-blue.svg)](https://www.ruby-lang.org/en/downloads/) [![License](https://img.shields.io/badge/license-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/) [![Build status](https://circleci.com/gh/getodk/website.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/getodk/website/) [![Slack](https://img.shields.io/badge/chat-on%20slack-brightgreen)](https://slack.getodk.org)
 
 This repository is home to the [ODK homepage](https://getodk.org/).
 

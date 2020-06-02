@@ -71,6 +71,6 @@ Validate is available for Windows, macOS, and Linux.
 
 JavaRosa is a Java library for software developers. Use Maven or Gradle through the Central Repository to get the latest updates automatically.
 
-* Download [latest release on maven.org](https://search.maven.org/#search%7Cga%7C1%7Ca%3A%22opendatakit-javarosa%22) (Recommended)
+* Download [latest release on maven.org](https://search.maven.org/search?q=g:org.getodk%20AND%20a:javarosa) (Recommended)
 * Download [latest release on GitHub](https://github.com/getodk/javarosa/releases/latest)
 * View [source code on GitHub](https://github.com/getodk/javarosa)

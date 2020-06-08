@@ -6,8 +6,9 @@ permalink: /covid-19/
 ODK has been used to fight both endemic and pandemic diseases for more than a decade and it's being used in the COVID-19 response for disease surveillance, rapid diagnostics, and vaccine trials. Below are a few selected examples.
 
 * Global: The London School of Hygiene & Tropical Medicine is running offline vaccine trials in low and middle-income countries with ODK. [Learn more](https://twitter.com/ORK_LSHTM/status/1235307011736293376).
-* India: The Ministry of Health and partners have deployed ODK in key health facilities for case detection. [Learn more](https://www.freepressjournal.in/india/ministry-of-health-affairs-launches-district-level-facility-based-surveillance).
+* Nigeria: 70,000 enumerators will be mapping 2 million farms with ODK in order to keep local food supply chains thriving during the pandemic. [Learn more](https://twitter.com/FmardPace).
 * Somalia: Contact tracing data from 4,000 health workers trained by the WHO flows through ODK. [Learn more](http://www.emro.who.int/somalia/news/cases-of-covid-19-surge-in-somalia-as-do-response-efforts-for-contact-tracing.html).
+* India: The Ministry of Health and partners have deployed ODK in key health facilities for case detection. [Learn more](https://www.freepressjournal.in/india/ministry-of-health-affairs-launches-district-level-facility-based-surveillance).
 * Spain: Spanish Red Cross uses ODK and Enketo to feed dashboards monitoring which SRC activities and equipment are supporting the government's response. [Learn more](https://youtu.be/rCLNzo9HdEQ)
 * South Sudan: WHO and the Ministry of Health rely on ODK to get real-time data on contacts. [Learn more](https://twitter.com/WHOSouthSudan/status/1259469876604940289).
 * Kenya: CORE Group's community health volunteers capture potential human and animal cases on ODK. [Learn more](https://coregroup.org/wp-content/uploads/2020/03/COVID19-Technologies-Combined.pdf).

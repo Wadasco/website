@@ -51,10 +51,10 @@ The ODK website is built with [Ruby](https://www.ruby-lang.org/en/downloads/) an
 	b. Set the local application-specific Ruby version by using [`rbenv-local`](https://github.com/rbenv/rbenv#rbenv-local).
 
 	```
-	rbenv local 2.6.3
+	rbenv local 2.7.1
 	```
 
-	c. Verify that your project is using Ruby version `2.6.3`:
+	c. Verify that your project is using Ruby version `2.7.1`:
 	```
 	ruby -v
 	```

@@ -71,10 +71,14 @@ img {
 }
 
 .banner {
-  background-color:#424242; 
-  color: #fff; 
-  text-align:center; 
+  background-color:#424242;
+  color: #fff;
+  text-align:center;
   font-weight:bold;
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
 }
 
 .banner a:link, .banner a:visited, .banner a:active {

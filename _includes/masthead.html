@@ -1,6 +1,21 @@
 {% capture logo_path %}{{ site.logo }}{% endcapture %}
 
-<div class="banner">Black Lives Matter. Support the <a href="https://www.naacpldf.org/support/">NAACP LDF</a>.</div>
+<div class="banner blm">Black Lives Matter. Support the 
+  <a href="https://www.naacpldf.org/support/">NAACP LDF</a>
+  <a href="https://bailproject.org/">Bail Project</a>
+  <a href="https://eji.org/">Equal Justice Initiative</a>.
+</div>
+
+<script>
+  // randomly pick one blm link to display
+  var orgs = document.querySelectorAll('.blm a');
+  if ( orgs.length ) { 
+      var random = Math.floor( Math.random() * orgs.length );
+      orgs.forEach( function(org, index){
+        org.style.display = ( index === random ) ? 'inline' : 'none';
+      } );
+    }
+</script>
 
 <div class="masthead">
   <div class="masthead__inner-wrap">

@@ -69,3 +69,14 @@ img {
   font-style: italic;
   font-weight: bolder;
 }
+
+.banner {
+  background-color:#424242; 
+  color: #fff; 
+  text-align:center; 
+  font-weight:bold;
+}
+
+.banner a:link, .banner a:visited, .banner a:active {
+  color: #fff;
+}

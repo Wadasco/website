@@ -11,6 +11,7 @@ ODK has been used to fight both endemic and pandemic diseases for more than a de
 * India: The Ministry of Health and partners have deployed ODK in key health facilities for case detection. [Learn more](https://www.freepressjournal.in/india/ministry-of-health-affairs-launches-district-level-facility-based-surveillance).
 * Spain: Spanish Red Cross uses ODK and Enketo to feed dashboards monitoring which SRC activities and equipment are supporting the government's response. [Learn more](https://youtu.be/rCLNzo9HdEQ)
 * South Sudan: WHO and the Ministry of Health rely on ODK to get real-time data on contacts. [Learn more](https://twitter.com/WHOSouthSudan/status/1259469876604940289).
+* Niger: WHO's surveillance for COVID-19 cases is powered by ODK. [Learn more](https://twitter.com/OMSNiger/status/1272940020169674752).
 * Kenya: CORE Group's community health volunteers capture potential human and animal cases on ODK. [Learn more](https://coregroup.org/wp-content/uploads/2020/03/COVID19-Technologies-Combined.pdf).
 * Philippines: Quarantined and hospitalized cases in Region 12 are reported using ODK. [Learn more](https://www.mindanews.com/top-stories/2020/03/male-patient-from-sultan-kudarat-dies-while-awaiting-virus-test-results).
 * Pakistan: Red Crescent Society conducts beneficiary registration for food distribution with ODK. [Learn more](https://twitter.com/PRC_official/status/1261320953717501953).
